@@ -35,7 +35,7 @@
     "name": "Jasper Reports",
     "version": "13.0.0.1.1",
     "summary": '''This module integrates Jasper Reports with Odoo.''',
-    "author": "NaN·tic, Serpent Consulting Services Pvt. Ltd., MS BARA diassynthesis@gmail.com",
+    "author": "NaN·tic, Serpent Consulting Services Pvt. Ltd., MS. BARA diassynthesis@gmail.com",
     "website": "http://www.nan-tic.com, http://www.serpentcs.com",
     'images': [
         'images/jasper_reports-hover.png',

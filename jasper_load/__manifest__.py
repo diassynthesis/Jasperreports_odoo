@@ -35,7 +35,7 @@
     version was made by NaN-tic.
     Serpent Consulting Services Pvt. Ltd.
     has migrated it to v10, v11 and v12. ''',
-    "author": "Serpent Consulting Services Pvt. Ltd., MS BARA diassynthesis@gmail.com",
+    "author": "Serpent Consulting Services Pvt. Ltd., MS. BARA diassynthesis@gmail.com",
     "website": "http://www.serpentcs.com",
     "depends": ["base"],
     "category": "Generic Modules/Jasper Reports",
