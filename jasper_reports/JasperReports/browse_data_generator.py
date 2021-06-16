@@ -41,7 +41,7 @@ import codecs
 import logging
 from xml.dom.minidom import getDOMImplementation
 
-from odoo import orm fields, api, models, tools
+from odoo import orm, fields, api, models, tools
 
 from .abstract_data_generator import AbstractDataGenerator
 
